@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=titipakorn&label=Profile%20views&color=0e75b6&style=flat" alt="titipakorn" /> </p>
 
-- 🔭 I’m currently working on **Thai NLP**
+- 🔭 I’m currently working on **Research Laboratory**
 
 - 💬 Ask me about **React, NodeJS, Python, and AI**
 
